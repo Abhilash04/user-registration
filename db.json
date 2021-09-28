@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "firstname": "Jon",
+          "lastname": "Doe",
+          "country-code": "+91",
+          "phone": "9814612345"
+        },
+        {
+          "id": 2,
+          "firstname": "Christine",
+          "lastname": "Polerebo",
+          "country-code": "+91",
+          "phone": "9814612346"
+        }
+    ]
+}
